@@ -920,7 +920,7 @@
           },
           "connection": {
             "title": "Connection Settings",
-            "description": "Update the Base URL and API Key of the instance after channel creation",
+            "description": "Optional channel-specific overrides. Leave unchanged to use the global Admin Settings values.",
             "apiUrlLabel": "Base URL",
             "apiUrlPlaceholder": "https://api.evolution.com",
             "adminTokenLabel": "API Key",
